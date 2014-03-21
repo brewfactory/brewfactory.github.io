@@ -288,7 +288,8 @@ module.exports = function (grunt) {
               'images/{,*/}*.webp',
               '{,*/}*.html',
               'styles/fonts/{,*/}*.*',
-              'bower_components/bootstrap/dist/fonts/*.*'
+              'bower_components/bootstrap/dist/fonts/*.*',
+              'CNAME'
             ]
           }
         ]
