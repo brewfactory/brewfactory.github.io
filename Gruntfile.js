@@ -326,7 +326,7 @@ module.exports = function (grunt) {
       },
       gh: {
         options: {
-          remote: 'git@github.com:brewfactory/brewfactory.org.git',
+          remote: 'git@github.com:brewfactory/brewfactoryorg.git',
           branch: 'gh-pages'
         }
       }
