@@ -17,6 +17,10 @@ header hr {
     margin-top: 6px;
 }
 
+.container {
+    max-width: 1080px;
+}
+
 .logo {
     margin: 10px 0 10px 0;
     padding: 0;
